@@ -1,0 +1,82 @@
+{
+  "projects": [
+    {
+      "name": "project1",
+      "date": "2021-05-05",
+      "teamsize": "10",
+      "id": 1
+    },
+    {
+      "name": "project2",
+      "date": "2021-06-03",
+      "teamsize": "7",
+      "id": 2
+    },
+    {
+      "name": "project3",
+      "date": "2021-06-02",
+      "teamsize": "8",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "nhuttien22102001@gmail.com",
+      "name": "leader",
+      "pass": "$2a$10$sk4smTH4ed/kcmSDpVpAp.YvNzfK8ukRitkhTgDGdyDcKrva0UX2.",
+      "type": 1,
+      "id": 1
+    },
+    {
+      "email": "nhuttien22102001@gmail.com",
+      "name": "employee",
+      "pass": "$2a$10$ssFlv5PP/FC1/5LGnFyExeaOZeDWNpcKoP2saY3onIwTWlq3BAgOe",
+      "type": 0,
+      "id": 2
+    },
+    {
+      "email": "nhuttien22102001@gmail.com",
+      "name": "employee123",
+      "pass": "$2a$10$iq5lbATMB096KFh/mPm3Eurit.vICAJhmvmVcBC6/QDJcbl0sucFq",
+      "type": 0,
+      "id": 3
+    },
+    {
+      "email": "nhuttien22102001@gmail.com",
+      "name": "employee321",
+      "pass": "$2a$10$Bn8z8DV.qkqi16na0cdhzeZBwA2sjj61G0Ah6qKnvgi1258hXpjVe",
+      "type": 0,
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "name": "task 1",
+      "des": "good",
+      "project": "project1",
+      "status": "Holding",
+      "id": 1
+    },
+    {
+      "name": "tasks2",
+      "des": "nice",
+      "project": "project2",
+      "status": "Holding",
+      "id": 2
+    },
+    {
+      "name": "tasks3",
+      "des": "very good !!",
+      "project": "project3",
+      "status": "None",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "des": "asd",
+      "project": "project1",
+      "status": "Holding",
+      "id": 4
+    }
+  ]
+}
